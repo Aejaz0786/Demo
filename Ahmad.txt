@@ -1,3 +1,4 @@
 
 #Practice
-Hello world i am doing here parctice to get command on DevOps process
+Hello world i am doing here parctice to get command on DevOps process 
+Yes i pushed it to main repo that is on github address has been pushed successfully
